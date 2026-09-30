@@ -18,6 +18,8 @@ I build practical applications across Java and web development, with a focus on 
 
 <p>
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222222" alt="C" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 	<img src="https://img.shields.io/badge/Express-222222?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -35,6 +37,8 @@ I build practical applications across Java and web development, with a focus on 
 ## Selected Work
 
 <p>
+	<a href="https://github.com/RameshKodli/ramesh-cognifyz-internship"><img src="https://img.shields.io/badge/Cognifyz-8%20Full--Stack%20Tasks-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Cognifyz full-stack internship tasks" /></a>
+	<br /><br />
 	<a href="https://github.com/RameshKodli/SCT_WD_01"><img src="https://img.shields.io/badge/SCT_WD_01-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SCT WD 01" /></a>
 	<a href="https://github.com/RameshKodli/SCT_WD_02"><img src="https://img.shields.io/badge/SCT_WD_02-HTML-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="SCT WD 02" /></a>
 	<a href="https://github.com/RameshKodli/SCT_WD_03"><img src="https://img.shields.io/badge/SCT_WD_03-HTML-0891B2?style=for-the-badge&logo=html5&logoColor=white" alt="SCT WD 03" /></a>
