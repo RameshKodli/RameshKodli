@@ -1,15 +1,16 @@
 
 # Ramesh Kodli
 
-### Software Engineer | Java & Full-Stack Development
+### Software Engineer | Java, Full-Stack & Data Analytics
 
-I build practical applications across Java and web development, with a focus on clear user flows, useful validation, and maintainable code.
+I build practical applications across Java and web development, with a focus on clear user flows, useful validation, and maintainable code. I’m also growing my skills in data analytics and turning data into useful insights.
 
 ## What I'm Building
 
 - Java desktop applications for student grades, stock portfolios, and hotel reservations.
 - Web applications with Node.js, Express, and browser-based interfaces.
 - Small projects that explore REST APIs, authentication, middleware, caching, and background jobs.
+- Data analytics, with a focus on building practical skills in exploring and communicating data.
 
 ## Tools I Work With
 
@@ -31,4 +32,4 @@ These repositories contain my web development practice projects:
 
 ---
 
-I’m continuing to grow my portfolio through hands-on projects in Java and full-stack development.
+I’m continuing to grow my portfolio through hands-on projects in Java, full-stack development, and data analytics.
